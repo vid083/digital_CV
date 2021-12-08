@@ -6,13 +6,13 @@ Energetic computer science student who wants to expand my knowledge, learn new t
 <br><br>
 
 ## 👩🏼‍🎓 **Education:**
-**UNIVERSITY OF HERTFORDSHIRE [(UH)](https://www.herts.ac.uk/), HATFIELD, U.K                                                    2020 - 2021**
+**UNIVERSITY OF HERTFORDSHIRE [(UH)](https://www.herts.ac.uk/), HATFIELD, U.K,                                                    2020 - 2021**
 
 MSc Advanced Computer Science
 
 Coursework: Data Structure and Algorithms, Machine Learning, Entrepreneurship, Object-Oriented Programming. 
 <br><br>
-**VAAGESWARI COLLEGE OF ENGINEERING, KARIMNAGAR                                      2014 - 2018**
+**VAAGESWARI COLLEGE OF ENGINEERING, KARIMNAGAR,                                      2014 - 2018**
 
   Bachelor’s in Electrical & Electronics Engineering                             
 
