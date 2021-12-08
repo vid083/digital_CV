@@ -6,7 +6,7 @@ Energetic computer science student who wants to expand my knowledge, learn new t
 <br><br>
 
 ## 👩🏼‍🎓 **Education**
-**UNIVERSITY OF HERTFORDSHIRE [(UH)](https://www.herts.ac.uk/), HATFIELD, U.K                                                    2020 - 2021 **
+**UNIVERSITY OF HERTFORDSHIRE [(UH)](https://www.herts.ac.uk/), HATFIELD, U.K                                                    2020 - 2021**
 
 MSc Advanced Computer Science
 
