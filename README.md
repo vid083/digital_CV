@@ -1,5 +1,5 @@
 # **Vidya's Resume**
-[gmail](contact.vidya007@gmail.com) | [github](https://github.com/)
+[github](https://github.com/)
 <br><br>
 ## **Profile:**
 Energetic computer science student who wants to expand my knowledge, learn new technologies and software development and work in a field that has been my passion.
