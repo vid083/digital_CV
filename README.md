@@ -1,11 +1,11 @@
-# **Vidya's Resume**
+# **Vidhya's Resume**
 [github](https://github.com/)
 <br><br>
 ## **Profile:**
 Energetic computer science student who wants to expand my knowledge, learn new technologies and software development and work in a field that has been my passion.
 <br><br>
 
-## 👩🏼‍🎓 **Education**
+## 👩🏼‍🎓 **Education:**
 **UNIVERSITY OF HERTFORDSHIRE [(UH)](https://www.herts.ac.uk/), HATFIELD, U.K                                                    2020 - 2021**
 
 MSc Advanced Computer Science
