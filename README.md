@@ -50,7 +50,7 @@ Python, Machine Learning, Nodejs
 CSS3, HTML5, JavaScript, Bootstrap, React JS, Material UI 
 
 **Tools:**
-VisualStudio, GitHub, git, Jupiter, spacy
+VisualStudio, GitHub, Gitlab, Bitbucket, Jupiter, spacy
 
 **Databases:**
 MongoDB, MySQL
